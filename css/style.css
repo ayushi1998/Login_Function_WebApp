@@ -1,0 +1,94 @@
+@import url(https://fonts.googleapis.com/css?family=Tenor+Sans);
+html {
+  background-color: #dcf4f0;
+  font-family: "Tenor Sans", sans-serif;
+}
+
+.container {
+  width: 700px;
+  height: 500px;
+  margin: 0 auto;
+ 
+}
+
+.sign {
+  margin-top: 100px;
+  width: 450px;
+   margin-left: 80px;
+}
+
+.signup-heading {
+  font: 1.8em/48px "Tenor Sans", sans-serif;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  margin-left: 80px;
+  padding-top: 20px;
+   margin-top: 40px;
+}
+.signup-heading1 {
+  margin-top:10px; 
+  font: 1.8em/48px "Tenor Sans", sans-serif;
+  color: #81d8d0;
+margin-left: 80px;
+}
+.input-txt {
+  width: 100%;
+  padding: 20px 10px;
+  background: #FFFFFF;
+  margin-top: 50px;
+  border: none;
+  font-size: 1em;
+  color: white;
+  margin-left: 60px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+    box-shadow: 10px 10px 5px grey;
+    position: relative;
+  
+}
+.input-txt:-moz-placeholder {
+  color: #81d8d0;
+}
+.input-txt:-ms-input-placeholder {
+  color: #81d8d0;
+}
+.input-txt::-webkit-input-placeholder {
+  margin-top: 50px;
+  color: #81aac9;
+}
+.input-txt:focus {
+  background-color: #FFFFFF;
+}
+
+.login-footer {
+  margin: 10px 0;
+  overlow: hidden;
+  float: left;
+  width: 100%;
+}
+
+div.form{
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.btn {
+  padding: 15px 30px;
+  border: none;
+  background: white;
+  color: #5D92BA;
+  margin-left: 80px;
+}
+
+.btn--center {
+  margin-top: 50px;
+  float: center;
+}
+
+
+.lnk {
+  font-size: .8em;
+  line-height: 3em;
+  color: white;
+  text-decoration: none;
+}
